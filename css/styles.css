@@ -1,0 +1,17 @@
+body {
+  text-align:center;
+  background-color: #637BAD;
+}
+
+.top-container {
+  padding-top: 60px;
+}
+.cloudd {
+     position:absolute;
+     right:200px;
+     top: 10px
+}
+.clouddd {
+  position: absolute;
+  left: 200px;
+}
